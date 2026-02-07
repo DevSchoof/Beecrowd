@@ -6,41 +6,51 @@ Repositório com soluções de exercícios do Beecrowd (antigo URI Online Judge)
 
 ## 📋 Problemas Resolvidos
 
-### 🔹 [Bee 1001 - Extremely Basic](bee1001.py)
+### 🔹 Bee 1001 - Extremely Basic
+
+
 **Descrição:** Leia 2 valores inteiros e armazene-os nas variáveis A e B. Efetue a soma de A e B atribuindo o seu resultado na variável X. Imprima X conforme exemplo apresentado abaixo.
 
 **Entrada:** Dois valores inteiros.  
 **Saída:** Imprima a soma de A e B com a mensagem "X = " (com um espaço antes e depois do sinal de igual).
 
+> 📄 [**Clique aqui para visualizar o código-fonte em Python**](bee1001.py)
+
 ![Bee 1001](images/bee1001.png)
 
 ---
 
-### 🔹 [Bee 1069 - Contando Diamantes](bee1069.py)
+### 🔹 Bee 1069 - Contando Diamantes
 **Descrição:** Dado uma string contendo apenas os caracteres '<' e '>', conte quantos diamantes podem ser formados. Um diamante é formado pela sequência "<>".
 
 **Entrada:** A primeira linha contém N (número de casos de teste). Cada uma das N linhas seguintes contém uma string.  
 **Saída:** Para cada caso de teste, imprima o número de diamantes que podem ser extraídos.
 
+> 📄 [**Clique aqui para visualizar o código-fonte em Python**](bee1069.py)
+
 ![Bee 1069](images/bee1069.png)
 
 ---
 
-### 🔹 [Bee 1103 - Alarme Despertador](bee1103.py)
+### 🔹 Bee 1103 - Alarme Despertador
 **Descrição:** Calcule o tempo em minutos entre o horário atual e o horário do alarme despertador.
 
 **Entrada:** Cada linha contém 4 inteiros: H1 M1 H2 M2 (hora inicial, minuto inicial, hora final, minuto final). O teste termina quando H1=M1=H2=M2=0.  
 **Saída:** Para cada caso, imprima o tempo em minutos até o alarme tocar.
 
+> 📄 [**Clique aqui para visualizar o código-fonte em Python**](bee1103.py)
+
 ![Bee 1103](images/bee1103.png)
 
 ---
 
-### 🔹 [Bee 2091 - Número Solitário](bee2091.py)
+### 🔹 Bee 2091 - Número Solitário
 **Descrição:** Dado um conjunto de números onde todos aparecem em pares exceto um, encontre o número solitário usando operação XOR.
 
 **Entrada:** A primeira linha contém N (quantidade de números). A segunda linha contém N inteiros.  
 **Saída:** Imprima o número que aparece apenas uma vez.
+
+> 📄 [**Clique aqui para visualizar o código-fonte em Python**](bee2091.py)
 
 ![Bee 2091](images/bee2091.png)
 
