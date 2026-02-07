@@ -65,12 +65,12 @@ python3 bee1001.py
 .
 ├── README.md
 ├── bee1001.py
-├── bee1090.py
+├── bee1069.py
 ├── bee1103.py
 ├── bee2091.py
 └── images/
     ├── bee1001.png
-    ├── bee1090.png
+    ├── bee1069.png
     ├── bee1103.png
     └── bee2091.png
 ```
