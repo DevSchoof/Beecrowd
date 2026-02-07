@@ -16,13 +16,13 @@ Repositório com soluções de exercícios do Beecrowd (antigo URI Online Judge)
 
 ---
 
-### 🔹 [Bee 1090 - Contando Diamantes](bee1090.py)
+### 🔹 [Bee 1069 - Contando Diamantes](bee1069.py)
 **Descrição:** Dado uma string contendo apenas os caracteres '<' e '>', conte quantos diamantes podem ser formados. Um diamante é formado pela sequência "<>".
 
 **Entrada:** A primeira linha contém N (número de casos de teste). Cada uma das N linhas seguintes contém uma string.  
 **Saída:** Para cada caso de teste, imprima o número de diamantes que podem ser extraídos.
 
-![Bee 1090](images/bee1090.png)
+![Bee 1069](images/bee1069.png)
 
 ---
 
