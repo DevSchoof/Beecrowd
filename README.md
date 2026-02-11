@@ -6,6 +6,20 @@ Repositório com soluções de exercícios do Beecrowd (antigo URI Online Judge)
 
 ## 📋 Problemas Resolvidos
 
+
+### 🔹 Bee 1000 - Hello World
+
+**Descrição:** O seu primeiro programa em qualquer linguagem de programação normalmente é o "Hello World!". Neste primeiro problema tudo o que você precisa fazer é imprimir esta mensagem na tela.
+
+**Entrada:**   
+**Saída:** Hello World!
+
+> 📄 [**Clique aqui para visualizar o código-fonte em Python**](bee1000.py)
+
+![Bee 1001](images/bee1000.png)
+
+---
+
 ### 🔹 Bee 1001 - Extremely Basic
 
 
@@ -74,11 +88,13 @@ python3 bee1001.py
 ```
 .
 ├── README.md
+├── bee1000.py
 ├── bee1001.py
 ├── bee1069.py
 ├── bee1103.py
 ├── bee2091.py
 └── images/
+    ├── bee1000.png
     ├── bee1001.png
     ├── bee1069.png
     ├── bee1103.png
@@ -90,5 +106,5 @@ python3 bee1001.py
 ## 📝 Notas
 
 - Todas as soluções foram testadas e aceitas no Beecrowd
-- Linguagem: Python 3.x
+- Linguagem: Python 3.10
 - Para mais problemas, visite: [beecrowd.com.br](https://www.beecrowd.com.br/)
