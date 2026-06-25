@@ -71,6 +71,45 @@ Leia dois valores inteiros, no caso para variáveis A e B. A seguir, calcule a s
 
 ---
 
+### 🔹 Bee 1004 - Produto Simples
+
+
+**Descrição:** 
+
+Leia dois valores inteiros. A seguir, calcule o produto entre estes dois valores e atribua esta operação à variável PROD. A seguir mostre a variável PROD com mensagem correspondente.   
+
+
+**Entrada:** A arquivo de entrada contém dois valores inteiros.
+
+**Saída:** Imprima a mensagem "PROD" e a variável PROD conforme exemplo abaixo, com um espaço em branco antes e depois da igualdade. Não esqueça de imprimir o fim de linha após o produto, caso contrário seu programa apresentará a mensagem: “Presentation Error”.
+
+> 📄 [**Clique aqui para visualizar o código-fonte em Python**](bee1004.py)
+
+![Bee 1004](images/bee1004.png)
+
+---
+
+### 🔹 Bee 1024 - Criptografia
+
+
+**Descrição:** 
+
+Solicitaram para que você construisse um programa simples de criptografia. Este programa deve possibilitar enviar mensagens codificadas sem que alguém consiga lê-las. O processo é muito simples. São feitas três passadas em todo o texto.
+
+Na primeira passada, somente caracteres que sejam letras minúsculas e maiúsculas devem ser deslocadas 3 posições para a direita, segundo a tabela ASCII: letra 'a' deve virar letra 'd', letra 'y' deve virar caractere '|' e assim sucessivamente. Na segunda passada, a linha deverá ser invertida. Na terceira e última passada, todo e qualquer caractere a partir da metade em diante (truncada) devem ser deslocados uma posição para a esquerda na tabela ASCII. Neste caso, 'b' vira 'a' e 'a' vira '`'.
+
+Por exemplo, se a entrada for “Texto #3”, o primeiro processamento sobre esta entrada deverá produzir “Wh{wr #3”. O resultado do segundo processamento inverte os caracteres e produz “3# rw{hW”. Por último, com o deslocamento dos caracteres da metade em diante, o resultado final deve ser “3# rvzgV”. 
+
+**Entrada:** A entrada contém vários casos de teste. A primeira linha de cada caso de teste contém um inteiro N (1 ≤ N ≤ 1*104), indicando a quantidade de linhas que o problema deve tratar. As N linhas contém cada uma delas M (1 ≤ M ≤ 1*103) caracteres.
+
+**Saída:** Para cada entrada, deve-se apresentar a mensagem criptografada.
+
+> 📄 [**Clique aqui para visualizar o código-fonte em Python**](bee1024.py)
+
+![Bee 1024](images/bee1024.png)
+
+---
+
 
 ### 🔹 Bee 1069 - Contando Diamantes
 **Descrição:** Dado uma string contendo apenas os caracteres '<' e '>', conte quantos diamantes podem ser formados. Um diamante é formado pela sequência "<>".
@@ -133,6 +172,8 @@ python3 bee1001.py
 ├── bee1001.py
 ├── bee1002.py
 ├── bee1003.py
+├── bee1004.py
+├── bee1024.py
 ├── bee1069.py
 ├── bee1103.py
 ├── bee2091.py
@@ -141,6 +182,8 @@ python3 bee1001.py
     ├── bee1001.png
     ├── bee1002.png
     ├── bee1003.png
+    ├── bee1004.png
+    ├── bee1024.png
     ├── bee1069.png
     ├── bee1103.png
     └── bee2091.png
